@@ -30,7 +30,7 @@ By using static items you can directly access the __Icon__ property of each item
 	<telerik:RadMenuItem Header="New File">
 	    <telerik:RadMenuItem.Icon>
 	        <Image Source="/Images/newFile.png"
-	               Stretch="None" />
+	               Stretch="Uniform" />
 	    </telerik:RadMenuItem.Icon>
 	</telerik:RadMenuItem>
 {{endregion}}
